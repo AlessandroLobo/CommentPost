@@ -32,7 +32,7 @@ const posts = [
   {
     id: 2,
     author: {
-      avatarUrl: 'http://https://github.com/AlessandroLobo.png',
+      avatarUrl: 'https://github.com/AlessandroLobo.png',
       name: 'Dérica Mello',
       role: 'Vendedora @ Marlene Modas'
     },
